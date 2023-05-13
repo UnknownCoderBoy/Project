@@ -3,19 +3,12 @@ include("../include/header.php");
 ?>
 
 <main class="mt-5">
-<div class="d-flex justify-content-center">
+<div class="d-flex justify-content-center px-4">
 <form>
 <div class="row mb-4">
   <select class="form-select">
   <option value="none">Main Module</option>
   <option value="1">One</option>
-  <option value="2">Two</option>
-  <option value="3">Three</option>
-  <option value="4">Four</option>
-  <option value="5">Five</option>
-  <option value="6">Six</option>
-  <option value="7">Seven</option>
-  <option value="8">Eight</option>
 </select>
 </div>
 <div class="row mb-4">
@@ -136,11 +129,11 @@ include("../include/header.php");
   </div>
 </div>
 <hr>
-<div>
-  <h5 class="mb-3">PQ Desc</h5>
-  <p class="mb-3">MDB Team</p>
+<div class="mb-4">
+  <h5 class="mb-3 lw-5">PQ Desc</h5>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
 </div>
-<div class="row mb-5">
+<div class="mb-5">
   <div class="d-grid col-6 d-md-block mx-auto">
         <a href="" class="btn btn btn-primary mb-3">Preview</a>
         <a href="./auditdata.php" class="btn btn btn-primary mb-3">Submit</a>

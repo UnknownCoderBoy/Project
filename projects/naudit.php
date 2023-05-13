@@ -3,7 +3,7 @@ include("../include/header.php");
 ?>
 
 <main class="mt-5">
-<div class="d-flex justify-content-center">
+<div class="d-flex justify-content-center px-3">
 <form>
 <div class="row mb-4">
   <div class="col">
@@ -39,14 +39,14 @@ include("../include/header.php");
   </div>
 </div>
 <div class="row mb-4">
-	<div class="col-7">
+	<div class="col-5">
     <!-- Email input -->
     <div class="form-outline">
       <input type="email" id="form8Example5" class="form-control" />
       <label class="form-label" for="form8Example5">Vehicle Name</label>
     </div>
   </div>
-  <div class="col-5">
+  <div class="col-7">
     <div class="form-outline">
       <input type="file" id="form10Example2" class="form-control" />
     </div>
