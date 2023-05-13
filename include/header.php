@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Material Design for Bootstrap</title>
+    <title>Car Data</title>
     <!-- MDB icon -->
     <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon" />
     <!-- Font Awesome -->
@@ -28,21 +28,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white">
   <!-- Container wrapper -->
   <div class="container-fluid">
-    <!-- Toggle button -->
-    <button
-      class="navbar-toggler"
-      type="button"
-      data-mdb-toggle="collapse"
-      data-mdb-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-    >
-      <i class="fas fa-bars"></i>
-    </button>
-
-    <!-- Collapsible wrapper -->
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <!-- Navbar brand -->
       <a class="navbar-brand mt-2 mt-lg-0" href="#">
         <img
@@ -53,7 +38,7 @@
         />
       </a>
       <!-- Left links -->
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <!-- <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
           <a class="nav-link" href="#">Dashboard</a>
         </li>
@@ -63,18 +48,11 @@
         <li class="nav-item">
           <a class="nav-link" href="#">Projects</a>
         </li>
-      </ul>
+      </ul> -->
       <!-- Left links -->
-    </div>
-    <!-- Collapsible wrapper -->
 
     <!-- Right elements -->
     <div class="d-flex align-items-center">
-      <!-- Icon -->
-      <a class="link-secondary me-3" href="#">
-        <i class="fas fa-shopping-cart"></i>
-      </a>
-
       <!-- Notifications -->
       <div class="dropdown">
         <a
@@ -114,7 +92,7 @@
           aria-expanded="false"
         >
           <img
-            src="https://mdbootstrap.com/img/logo/mdb-transparent-250px.png"
+            src="https://1fid.com/wp-content/uploads/2022/05/attitude-boys-dp-9-720x720.jpg"
             class="rounded-circle"
             height="25"
             alt="Black and White Portrait of a Man"
