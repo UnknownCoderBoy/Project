@@ -27,22 +27,22 @@ include("../include/header.php");
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-      <td>Mark</td>
+      <td>Exterior</td>
+      <td>side-end</td>
+      <td>FR Bumper-Upper Grill</td>
+      <td>Colour Mismatch</td>
+      <td>No change</td>
+	  <td>Low</td>
+      <td>B</td>
       <td scope="row"><div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
       </div></td>
       <td scope="row"><div class="form-check">
-          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" checked/>
       </div></td>
-      <td>OCC</td>
-      <td>Demerit</td>
-      <td>Agency</td>
+      <td>12</td>
+      <td>320</td>
+      <td>Design</td>
        <td scope="row"><div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
       </div></td>

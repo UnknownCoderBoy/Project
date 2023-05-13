@@ -14,7 +14,7 @@ include("./include/header.php");
           <p class="mb-3">MDB Team</p>
           <a
             class="btn btn-primary btn-lg"
-            href="https://mdbootstrap.com/docs/standard/getting-started/"
+            href="./login.php"
             target="_blank"
             role="button"
             >Start MDB tutorial</a

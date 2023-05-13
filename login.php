@@ -4,7 +4,7 @@ include("./include/header.php");
 
 <main class="mt-5">
 <div class="d-flex justify-content-center">
-<form>
+<form action="./home.php">
   <!-- Email input -->
   <div class="form-outline mb-4">
     <input type="email" id="form2Example1" class="form-control" />
@@ -29,7 +29,7 @@ include("./include/header.php");
 
     <div class="col">
       <!-- Simple link -->
-      <a href="#!">Forgot password?</a>
+      <a href="./forgot.php">Forgot password?</a>
     </div>
   </div>
 
@@ -38,7 +38,7 @@ include("./include/header.php");
 
   <!-- Register buttons -->
   <div class="text-center">
-    <p>Not a member? <a href="#!">Register</a></p>
+    <p>Not a member? <a href="./register.php">Register</a></p>
     <p>or sign up with:</p>
     <button type="button" class="btn btn-secondary btn-floating mx-1">
       <i class="fab fa-facebook-f"></i>

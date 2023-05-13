@@ -7,23 +7,23 @@ include("./include/header.php");
 <ul class="nav justify-content-center nav-tabs mb-3" id="ex-with-icons" role="tablist">
   <li class="nav-item" role="presentation">
     <a class="nav-link active" id="ex-with-icons-tab-1" data-mdb-toggle="tab" href="#ex-with-icons-tabs-1" role="tab"
-      aria-controls="ex-with-icons-tabs-1" aria-selected="true"><i class="fas fa-chart-pie fa-fw me-2"></i>Sales</a>
+      aria-controls="ex-with-icons-tabs-1" aria-selected="true"><i class="fas fa-chart-pie fa-fw me-2"></i>Craftmanship</a>
   </li>
   <li class="nav-item" role="presentation">
     <a class="nav-link" id="ex-with-icons-tab-2" data-mdb-toggle="tab" href="#ex-with-icons-tabs-2" role="tab"
-      aria-controls="ex-with-icons-tabs-2" aria-selected="false"><i class="fas fa-chart-line fa-fw me-2"></i>Subscriptions</a>
+      aria-controls="ex-with-icons-tabs-2" aria-selected="false"><i class="fas fa-chart-line fa-fw me-2"></i>PQ Merit Rating</a>
   </li>
   <li class="nav-item" role="presentation">
     <a class="nav-link" id="ex-with-icons-tab-3" data-mdb-toggle="tab" href="#ex-with-icons-tabs-3" role="tab"
-      aria-controls="ex-with-icons-tabs-3" aria-selected="false"><i class="fas fa-cogs fa-fw me-2"></i>Settings</a>
+      aria-controls="ex-with-icons-tabs-3" aria-selected="false"><i class="fas fa-cogs fa-fw me-2"></i>E-Cube</a>
   </li>
   <li class="nav-item" role="presentation">
     <a class="nav-link" id="ex-with-icons-tab-4" data-mdb-toggle="tab" href="#ex-with-icons-tabs-4" role="tab"
-      aria-controls="ex-with-icons-tabs-4" aria-selected="false"><i class="fas fa-cogs fa-fw me-2"></i>Settings</a>
+      aria-controls="ex-with-icons-tabs-4" aria-selected="false"><i class="fas fa-cogs fa-fw me-2"></i>Gan and Flushness Measurement</a>
   </li>
   <li class="nav-item" role="presentation">
     <a class="nav-link" id="ex-with-icons-tab-5" data-mdb-toggle="tab" href="#ex-with-icons-tabs-5" role="tab"
-      aria-controls="ex-with-icons-tabs-5" aria-selected="false"><i class="fas fa-cogs fa-fw me-2"></i>Settings</a>
+      aria-controls="ex-with-icons-tabs-5" aria-selected="false"><i class="fas fa-cogs fa-fw me-2"></i>Functionality</a>
   </li>
 </ul>
 <!-- Tabs navs -->
@@ -37,7 +37,7 @@ include("./include/header.php");
       <img src="./img/Image.png" class="card-img-top" alt="Hollywood Sign on The Hill"/>
       <div class="card-body">
         <h5 class="card-title">Projects</h5>
-        <a href="./projects/" class="btn btn-primary">Go somewhere</a>
+        <a href="./projects/" class="btn btn-primary">Go</a>
       </div>
     </div>
   </div>
@@ -45,8 +45,8 @@ include("./include/header.php");
     <div class="card h-100">
       <img src="./img/Image.png" class="card-img-top" alt="Palm Springs Road"/>
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title">Benchmarks</h5>
+        <a href="#" class="btn btn-primary">Go</a>
       </div>
     </div>
   </div>
@@ -54,8 +54,8 @@ include("./include/header.php");
     <div class="card h-100">
       <img src="./img/Image.png" class="card-img-top" alt="Los Angeles Skyscrapers"/>
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title">Media Car</h5>
+        <a href="#" class="btn btn-primary">Go</a>
       </div>
     </div>
   </div>
@@ -63,8 +63,8 @@ include("./include/header.php");
     <div class="card h-100">
       <img src="./img/Image.png" class="card-img-top" alt="Skyscrapers"/>
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <h5 class="card-title">Part Evalution</h5>
+        <a href="#" class="btn btn-primary">Go</a>
       </div>
     </div>
   </div>

@@ -8,46 +8,37 @@ include("../include/header.php");
 <div class="row mb-4">
   <select class="form-select">
   <option value="none">Main Module</option>
-  <option value="1">One</option>
+  <option value="1">Interior</option>
+  <option value="1">Exterior</option>
+  <option value="1">Underbody</option>
+  <option value="1">Engine Compartment</option>
 </select>
 </div>
 <div class="row mb-4">
   <select class="form-select">
   <option value="none">Sub Module</option>
-  <option value="1">One</option>
-  <option value="2">Two</option>
-  <option value="3">Three</option>
-  <option value="4">Four</option>
-  <option value="5">Five</option>
-  <option value="6">Six</option>
-  <option value="7">Seven</option>
-  <option value="8">Eight</option>
+  <option value="1">front-end</option>
+  <option value="2">side-end</option>
+  <option value="3">rear-end</option>
+  <option value="4">top-end</option>
 </select>
 </div>
 <div class="row mb-4">
   <select class="form-select">
   <option value="none">Component</option>
-  <option value="1">One</option>
-  <option value="2">Two</option>
-  <option value="3">Three</option>
-  <option value="4">Four</option>
-  <option value="5">Five</option>
-  <option value="6">Six</option>
-  <option value="7">Seven</option>
-  <option value="8">Eight</option>
+  <option value="1">FR Bumper-Skin</option>
+  <option value="2">FR Bumper-Upper Grill</option>
+  <option value="3">FR Bumper-Lower Grill</option>
+  <option value="4">FR Bumper-T Logo</option>
 </select>
 </div>
 <div class="row mb-4">
   <select class="form-select">
   <option value="none">Issue Desciption</option>
-  <option value="1">One</option>
-  <option value="2">Two</option>
-  <option value="3">Three</option>
-  <option value="4">Four</option>
-  <option value="5">Five</option>
-  <option value="6">Six</option>
-  <option value="7">Seven</option>
-  <option value="8">Eight</option>
+  <option value="1">Colour Mismatch</option>
+  <option value="2">Gloss Mismatch</option>
+  <option value="3">Poor Glass Level</option>
+  <option value="4">Split line</option>
 </select>
 </div>
 <div class="row mb-4">
@@ -59,27 +50,17 @@ include("../include/header.php");
 <div class="row mb-4">
   <select class="form-select">
   <option value="none">Severity</option>
-  <option value="1">One</option>
-  <option value="2">Two</option>
-  <option value="3">Three</option>
-  <option value="4">Four</option>
-  <option value="5">Five</option>
-  <option value="6">Six</option>
-  <option value="7">Seven</option>
-  <option value="8">Eight</option>
+  <option value="1">High</option>
+  <option value="2">Low</option>
 </select>
 </div>
 <div class="row mb-4">
   <select class="form-select">
   <option value="none">Zone</option>
-  <option value="1">One</option>
-  <option value="2">Two</option>
-  <option value="3">Three</option>
-  <option value="4">Four</option>
-  <option value="5">Five</option>
-  <option value="6">Six</option>
-  <option value="7">Seven</option>
-  <option value="8">Eight</option>
+  <option value="1">A</option>
+  <option value="2">B</option>
+  <option value="3">C</option>
+  <option value="4">D</option>
 </select>
 </div>
 <div class="text-center mb-4">
@@ -108,14 +89,9 @@ include("../include/header.php");
 <div class="row mb-4">
   <select class="form-select">
   <option value="none">Agency</option>
-  <option value="1">One</option>
-  <option value="2">Two</option>
-  <option value="3">Three</option>
-  <option value="4">Four</option>
-  <option value="5">Five</option>
-  <option value="6">Six</option>
-  <option value="7">Seven</option>
-  <option value="8">Eight</option>
+  <option value="1">Design</option>
+  <option value="2">Part</option>
+  <option value="3">Process</option>
 </select>
 </div>
 
